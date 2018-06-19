@@ -1,0 +1,33 @@
+.footer {
+    padding: 30px 0;
+    line-height: 30px;
+    text-align: center;
+    background-color: #eee;
+    color: #666;
+    font-weight: 300;
+    height: 6%;
+    clear: both;
+}
+
+.notice{
+    padding: 50px; line-height: 22px; background-color: #393D49; color: #fff; font-weight: 300;
+}
+
+.position {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.wxImg {
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 10%;
+    right: 1%;
+}
+
+.wxImg img {
+    width: 100px;
+}

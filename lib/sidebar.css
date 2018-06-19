@@ -1,0 +1,234 @@
+.site-tree {
+    width: 150px;
+    float: left;
+}
+
+.scroll {
+    position: fixed;
+    top: 0;
+    max-height: 79%;
+    /*overflow: scroll;*/
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.site-swiper-slide form button {
+    background-color: #31B151;
+    width: 100px;
+}
+
+.site-tree .layui-tree .tree-start {
+    margin: 0 0 8px 0;
+}
+
+.site-tree .layui-tree .tree-middle {
+    margin: 8px 0;
+}
+
+.site-tree .layui-tree .tree-end {
+    margin: 8px 0 0 0;
+}
+
+.site-tree .layui-tree .tree-start, .site-tree .layui-tree .tree-middle, .site-tree .layui-tree .tree-end {
+    border: 1px solid #d3d3d3;
+    text-align: center;
+    line-height: 37px;
+}
+
+.layui-tree li {
+    cursor: pointer;
+}
+
+/*
+
+@media screen and (max-width: 1320px) {
+    .site-tree {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1340px) {
+    .site-tree {
+        margin-left: 10px;
+    }
+}
+
+@media screen and (min-width: 1360px) {
+    .site-tree {
+        margin-left: 20px;
+    }
+}
+
+@media screen and (min-width: 1380px) {
+    .site-tree {
+        margin-left: 30px;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .site-tree {
+        margin-left: 40px;
+    }
+}
+
+@media screen and (min-width: 1420px) {
+    .site-tree {
+        margin-left: 50px;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .site-tree {
+        margin-left: 60px;
+    }
+}
+
+@media screen and (min-width: 1460px) {
+    .site-tree {
+        margin-left: 70px;
+    }
+}
+
+@media screen and (min-width: 1480px) {
+    .site-tree {
+        margin-left: 80px;
+    }
+}
+
+@media screen and (min-width: 1500px) {
+    .site-tree {
+        margin-left: 90px;
+    }
+}
+
+@media screen and (min-width: 1520px) {
+    .site-tree {
+        margin-left: 100px;
+    }
+}
+
+@media screen and (min-width: 1540px) {
+    .site-tree {
+        margin-left: 110px;
+    }
+}
+
+@media screen and (min-width: 1560px) {
+    .site-tree {
+        margin-left: 120px;
+    }
+}
+
+@media screen and (min-width: 1580px) {
+    .site-tree {
+        margin-left: 130px;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    .site-tree {
+        margin-left: 140px;
+    }
+}
+
+@media screen and (min-width: 1620px) {
+    .site-tree {
+        margin-left: 150px;
+    }
+}
+
+@media screen and (min-width: 1640px) {
+    .site-tree {
+        margin-left: 160px;
+    }
+}
+
+@media screen and (min-width: 1660px) {
+    .site-tree {
+        margin-left: 170px;
+    }
+}
+
+@media screen and (min-width: 1680px) {
+    .site-tree {
+        margin-left: 180px;
+    }
+}
+
+@media screen and (min-width: 1700px) {
+    .site-tree {
+        margin-left: 190px;
+    }
+}
+
+@media screen and (min-width: 1720px) {
+    .site-tree {
+        margin-left: 200px;
+    }
+}
+
+@media screen and (min-width: 1740px) {
+    .site-tree {
+        margin-left: 210px;
+    }
+}
+
+@media screen and (min-width: 1760px) {
+    .site-tree {
+        margin-left: 220px;
+    }
+}
+
+@media screen and (min-width: 1780px) {
+    .site-tree {
+        margin-left: 230px;
+    }
+}
+
+@media screen and (min-width: 1800px) {
+    .site-tree {
+        margin-left: 240px;
+    }
+}
+
+@media screen and (min-width: 1820px) {
+    .site-tree {
+        margin-left: 250px;
+    }
+}
+
+@media screen and (min-width: 1840px) {
+    .site-tree {
+        margin-left: 260px;
+    }
+}
+
+@media screen and (min-width: 1860px) {
+    .site-tree {
+        margin-left: 270px;
+    }
+}
+
+@media screen and (min-width: 1880px) {
+    .site-tree {
+        margin-left: 280px;
+    }
+}
+
+@media screen and (min-width: 1900px) {
+    .site-tree {
+        margin-left: 290px;
+    }
+}
+
+@media screen and (min-width: 1920px) {
+    .site-tree {
+        margin-left: 300px;
+    }
+}
+
+@media screen and (min-width: 1940px) {
+    .site-tree {
+        margin-left: 310px;
+    }
+}*/
